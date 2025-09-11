@@ -1,0 +1,1 @@
+edge patern of the number

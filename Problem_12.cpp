@@ -1,0 +1,1 @@
+Piramid patern of array 

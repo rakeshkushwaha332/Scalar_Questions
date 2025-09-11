@@ -1,0 +1,1 @@
+Spitral patern of a matrix 
